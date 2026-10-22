@@ -15,5 +15,9 @@ using machine learning, data pipelines, and energy-system modeling.
   - Feasibility study and 15-year project-finance model for a 50 MW / 500 MWh battery
   - Minimum fee of $27.65/kW-month for a 12% equity return
   - Being redesigned after FERC rejected the underlying PJM rule in October 2026
+- [Residential energy burden and assistance access in Los Angeles County](https://github.com/JiaweiQi3/la-county-energy-burden-gis)
+  - Census-tract GIS analysis of 2,437 tracts in ArcGIS Pro and Python
+  - Getis-Ord Gi* hot spots of energy burden and distance to HEAP/LIHEAP centers
+  - The northern county is the one area that is both high-burden and far from assistance
 
 Contact: jwq2003usa@gmail.com | [LinkedIn](https://www.linkedin.com/in/jiaweiqicmu)
