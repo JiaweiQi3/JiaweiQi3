@@ -19,5 +19,9 @@ using machine learning, data pipelines, and energy-system modeling.
   - Census-tract GIS analysis of 2,437 tracts in ArcGIS Pro and Python
   - Getis-Ord Gi* hot spots of energy burden and distance to HEAP/LIHEAP centers
   - The northern county is the one area that is both high-burden and far from assistance
+- [Building characteristics and energy use in New York City](https://github.com/JiaweiQi3/nyc-building-energy-drivers)
+  - Regression study of 50,635 Local Law 84 benchmarking records in a MySQL database
+  - Floor area alone explains about one-third of the variance in total site energy use
+  - Building age has an inverted-U effect, with energy use peaking at about 80 years
 
 Contact: jwq2003usa@gmail.com | [LinkedIn](https://www.linkedin.com/in/jiaweiqicmu)
