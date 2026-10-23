@@ -4,7 +4,7 @@ I'm an M.S. student in Civil and Environmental Engineering at Carnegie Mellon Un
 I study how the growth of AI data centers reshapes electricity demand and grid planning,
 using machine learning, data pipelines, and energy-system modeling.
 
-**Research interests:** data center load forecasting, energy systems and machine learning, electricity markets and policy
+**Research interests:** data center load forecasting | energy systems modeling | artificial intelligence and machine learning | power markets and policy
 
 **Selected projects**
 - [U.S. data center electricity demand forecasts](https://github.com/JiaweiQi3/us-datacenter-electricity-forecasts)
