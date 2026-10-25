@@ -24,9 +24,5 @@ Data Center Load Forecasting | Energy Systems Modeling | Artificial Intelligence
   - Regression study of 50,635 Local Law 84 benchmarking records in a MySQL database
   - Floor area alone explains about one-third of the variance in total site energy use
   - Building age has an inverted-U effect, with energy use peaking at about 80 years
-- [Low-Carbon Design of an Office Building in Chongqing](https://github.com/JiaweiQi3/chongqing-office-low-carbon-design) (undergraduate thesis)
-  - Hourly DeST-C simulation of passive, active, and rooftop PV measures for a six-storey office
-  - Energy use intensity falls by 47.7%, saving 269,338 kWh and 160.5 t CO₂ a year
-  - A seasonal ventilation schedule cuts heating hours by 80.5% and cooling hours by 65.3%
 
 Contact: jwq2003usa@gmail.com | [LinkedIn](https://www.linkedin.com/in/jiaweiqicmu)
