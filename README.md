@@ -28,5 +28,9 @@ Data Center Load Forecasting | Energy Systems Modeling | Artificial Intelligence
   - Hourly DeST-C simulation of passive, active, and rooftop PV measures for a six-storey office
   - Energy use intensity falls by 47.7%, saving 269,338 kWh and 160.5 t CO₂ a year
   - A seasonal ventilation schedule cuts heating hours by 80.5% and cooling hours by 65.3%
+- [Airflow and Thermal Comfort of Contralateral Wall-Attached Jet Ventilation](https://github.com/JiaweiQi3/wall-jet-ventilation-cfd)
+  - Airpak CFD study of a classroom supplied from slots on two opposite walls, validated against published measurements
+  - 15 cases of supply temperature and velocity evaluated by PMV, PPD, age of air, and stratification
+  - Supply velocity drives comfort and air freshness; a 22 °C supply is comfortable at every velocity tested
 
 Contact: jwq2003usa@gmail.com | [LinkedIn](https://www.linkedin.com/in/jiaweiqicmu)
